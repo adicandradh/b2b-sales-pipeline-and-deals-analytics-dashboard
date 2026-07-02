@@ -1,1 +1,1 @@
-# b2b-sales-pipeline-and-deals-analytics-dashboard
+# B2B Sales Pipeline and Deals Analytics Dashboard
