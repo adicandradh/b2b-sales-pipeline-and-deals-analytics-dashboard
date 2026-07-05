@@ -58,7 +58,8 @@ Fokus utama dari project ini adalah mengolah data sales pipeline menjadi informa
 ## 📊 Preview & Insights
 ### Sales Pipeline Overview
 Dashboard untuk memantau kondisi pipeline aktif, distribusi pipeline, serta perkembangan nilai pipeline dan open deal.
-<img width="4100" height="2350" alt="b2b-sales-pipeline-and-deals-analytics-1" src="https://github.com/user-attachments/assets/aec680b2-7762-4a39-8927-f5036114603b" />
+<img width="4100" height="2350" alt="b2b-sales-pipeline-and-deals-analytics-1" src="https://github.com/user-attachments/assets/a1fa0f39-151b-4357-954e-7b61ad967871" />
+
 ### Insights
 - Secara keseluruhan, nilai Open Pipeline mencapai €606 juta yang berasal dari sekitar 7 ribu open deals dengan Average Deal Value sebesar €90 ribu. Setelah mempertimbangkan probabilitas kemenangan pada setiap deal, estimasi Weighted Pipeline Value mencapai €252 juta, sedangkan total Won Deal Value telah mencapai €241 juta.
 - Perkembangan Open Pipeline Value dan Open Deal Count memperlihatkan tren peningkatan yang cukup signifikan sejak tahun 2025 hingga Q1 2026. Pada Q1 2026, nilai pipeline aktif mencapai sekitar €153,18 juta dengan 1.474 open deals, mengindikasikan meningkatnya aktivitas penjualan pada periode tersebut.
@@ -69,7 +70,8 @@ Dashboard untuk memantau kondisi pipeline aktif, distribusi pipeline, serta perk
 
 ### Sales Execution Overview
 Dashboard untuk memonitor aktivitas sales, engagement pelanggan, serta kesehatan pipeline berdasarkan aktivitas dan deal health.
-<img width="4100" height="2350" alt="b2b-sales-pipeline-and-deals-analytics-2" src="https://github.com/user-attachments/assets/c0647354-7cf5-422d-bfe0-2efd809ef03b" />
+<img width="4100" height="2350" alt="b2b-sales-pipeline-and-deals-analytics-2" src="https://github.com/user-attachments/assets/0dff7782-bd81-4f9d-aad8-276de4bf0f5e" />
+
 ### Insights
 - Secara keseluruhan, tim sales mencatat sekitar 118 ribu aktivitas selama periode pengamatan dengan rata-rata 10 aktivitas pada setiap deal. Aktivitas tertinggi mencapai 21 aktivitas per deal, sedangkan deal dengan aktivitas terendah hanya memiliki 3 aktivitas, menunjukkan adanya variasi intensitas engagement antar peluang penjualan.
 - Tren aktivitas penjualan mengalami peningkatan yang cukup signifikan mulai tahun 2025 hingga mencapai puncaknya pada Q4 2025 dengan sekitar 21,5 ribu aktivitas. Sebaliknya, aktivitas terendah tercatat pada Q4 2024 yang hanya mencapai 248 aktivitas, mengindikasikan adanya peningkatan aktivitas sales yang cukup agresif menjelang akhir periode observasi.
@@ -81,7 +83,8 @@ Dashboard untuk memonitor aktivitas sales, engagement pelanggan, serta kesehatan
 
 ### Sales Performance Overview
 Dashboard untuk mengevaluasi hasil penjualan, efisiensi proses sales, serta performa sales representative berdasarkan berbagai metrik utama.
-<img width="4100" height="2350" alt="b2b-sales-pipeline-and-deals-analytics-3" src="https://github.com/user-attachments/assets/dff4762f-62bb-4c19-848c-4ea6204356cc" />
+<img width="4100" height="2350" alt="b2b-sales-pipeline-and-deals-analytics-3" src="https://github.com/user-attachments/assets/fad0c478-5f9a-466b-92a6-8d7d2182bc8c" />
+
 ### Insights
 - Secara keseluruhan, perusahaan mencatat Overall Win Rate sebesar 60,21%, dengan sekitar 3 ribu Won Deals dan 2 ribu Lost Deals. Nilai rata-rata setiap deal yang berhasil dimenangkan mencapai sekitar €80 ribu, dengan nilai deal tertinggi sebesar €841 ribu dan terendah sekitar €3 ribu. Selain itu, rata-rata Sales Cycle berlangsung selama 134 hari, dengan deal tercepat berhasil ditutup dalam 1 hari, sedangkan deal terlama membutuhkan hingga 667 hari.
 - Performa closed deals menunjukkan tren peningkatan yang cukup konsisten sejak tahun 2025 hingga mencapai puncaknya pada Q1 2026. Pada periode tersebut, Closed Deal Value mencapai sekitar €96,51 juta dengan total 923 closed deals, jauh lebih tinggi dibandingkan Q3 2022 yang hanya menghasilkan sekitar €4,76 juta dari 75 closed deals, mengindikasikan pertumbuhan kinerja penjualan selama periode observasi.
